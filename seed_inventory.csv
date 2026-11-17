@@ -1,0 +1,14 @@
+id_lote,producto,categoria,unidades,peso_unitario_kg,precio_base,fecha_caducidad,estado
+LAC-001,Leche entera 1 L,Lacteos,24,1.03,1.25,2026-11-07,ACTIVO
+LAC-002,Yogur natural 500 g,Lacteos,18,0.52,1.80,2026-11-09,ACTIVO
+LAC-003,Queso fresco 250 g,Lacteos,12,0.27,3.40,2026-11-14,ACTIVO
+LAC-004,Queso panela 400 g,Lacteos,10,0.42,4.20,2026-11-05,ACTIVO
+PAN-001,Pan integral molde 680 g,Panaderia,15,0.68,2.60,2026-11-08,ACTIVO
+PAN-002,Croissant mantequilla,Panaderia,20,0.09,0.85,2026-11-10,ACTIVO
+PAN-003,Baguette artesanal,Panaderia,10,0.32,1.50,2026-11-11,ACTIVO
+CAR-001,Pechuga de pollo 500 g,Carnes,14,0.52,5.90,2026-11-07,ACTIVO
+CAR-002,Carne molida de res 400 g,Carnes,10,0.42,6.50,2026-11-09,ACTIVO
+CAR-003,Jamón cocido rebanado 200 g,Carnes,16,0.22,3.25,2026-11-18,ACTIVO
+FV-001,Fresas frescas 250 g,Frutas_Verduras,18,0.27,2.20,2026-11-08,ACTIVO
+FV-002,Espinaca en bolsa 300 g,Frutas_Verduras,12,0.32,1.75,2026-11-10,ACTIVO
+FV-003,Tomate saladet 1 kg,Frutas_Verduras,9,1.02,2.10,2026-11-11,ACTIVO
